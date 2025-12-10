@@ -1,108 +1,99 @@
-📊 AI Impact on Jobs 2030 – Power BI Dashboard
+📊 AI Impact on Future Jobs 2030 – Power BI Dashboard
 
 This repository contains an interactive Power BI dashboard that analyzes how Artificial Intelligence (AI) will impact different job roles by 2030.
-It highlights which jobs are at high risk, which roles will be augmented, and how professionals can prepare for the future.
+It highlights automation risks, augmented roles, and future skill requirements to help professionals prepare for the changing workforce.
 
-🚀 Project Overview
-
-As AI continues to transform industries, understanding its impact on the workforce becomes crucial.
-This dashboard visualizes:
-
-Jobs most likely to be automated or replaced
-
-Roles that will see AI-driven augmentation
-
-Skill gaps and required upskilling pathways
-
-Sector-wise risk comparison
-
-Future demand trends by 2030
-
-The goal is to help employees, students, companies, and policymakers make data-driven decisions about the future of work.
-
-📂 Files Included
+📁 Files Included
 File Name	Description
 ai impact.pbix	Power BI dashboard file
 AI_Impact_on_Jobs_2030.csv	Dataset used for analysis
-README.md	Documentation for the project
+README.md	Project documentation
+🚀 Project Overview
+
+As AI continues to evolve, understanding its impact on jobs is crucial.
+This dashboard visualizes:
+
+Jobs at high automation risk
+
+Roles likely to be AI-augmented
+
+Required reskilling & upskilling
+
+Sector-wise automation impact
+
+Future demand trends toward 2030
+
+The goal is to support students, employees, companies, and policymakers in making data-driven career and workforce decisions.
+
 📈 Dashboard Features
 🔹 1. Job Risk Segmentation
 
-High-risk jobs
+High, Medium, and Low-risk roles
 
-Medium-risk jobs
+Augmented roles vs Replaced roles
 
-Low-risk jobs
+🔹 2. Skills Insights
 
-Augmented roles
+Future-ready skill recommendations
 
-🔹 2. Skill Recommendations
+AI-complementary skills
 
-Future skills needed
+🔹 3. Industry Analysis
 
-Reskilling & upskilling suggestions
+Sector-wise AI adoption
 
-🔹 3. Industry Breakdown
+Automation readiness
 
-Automation risk by sector
+Industry risk comparison
 
-AI adoption readiness
-
-Impact comparison across industries
-
-🔹 4. Visual Insights
+🔹 4. Visual Insight Elements
 
 Bar charts
 
 Donut charts
 
-Risk distribution
+Risk category visuals
 
-Category-wise workforce analysis
-
-The dashboard is designed to be clean, easy to interpret, and decision-focused.
+Workforce distribution charts
 
 🛠 Tools & Technologies
 
-Power BI
+Power BI Desktop
 
-Python / Excel (for preprocessing)
+CSV Dataset
 
-CSV dataset
+Excel / Python for data preprocessing
 
 📥 How to Use
 
-Download the ai impact.pbix file
+Download the file:
+ai impact.pbix
 
 Open it in Power BI Desktop
 
-Explore insights, filters, and interactive visuals
+Interact with filters and visuals to explore insights
 
 🎯 Purpose of This Project
 
-Understand how AI will reshape the job market
+Understand AI’s impact on the job market
 
-Guide professionals on future skills
+Help users identify high-risk and augmented roles
 
-Help organizations plan strategic workforce development
+Provide insight for better career and upskilling decisions
 
-Enable students to choose AI-resilient careers
+Support organizations in workforce planning
 
 🌟 Future Enhancements
 
 Add predictive ML models
 
-Integration with real-time labor market APIs
+Include country-wise automation insights
 
-Country-wise AI impact comparison
+Power BI Embedded web version
 
-Interactive web version (Power BI Embedded)
+Add interactive slicers for skill pathways
 
 🤝 Contributions
 
-Contributions, feedback, and feature suggestions are always welcome!
-Feel free to open a pull request or submit an issue.
-
-📬 Contact
-
-If you want help improving your dashboard or converting it into a portfolio project, feel free to reach out!
+Contributions, feedback, and suggestions are welcome!
+Feel free to open an Issue or a Pull Request.
